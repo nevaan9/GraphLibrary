@@ -1,4 +1,4 @@
-# Author: Lisa Torrey
+# Author: Nevaan Perera
 # Purpose: implement a weighted directed graph
 # Citations:
 

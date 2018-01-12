@@ -1,1 +1,1 @@
-## This is a comprehensive Graph library to create and run graph algorithms.
+## This is a comprehensive weighted and unweighted Graph Library to run graph algorithms.
